@@ -4,6 +4,9 @@ Production-grade, cross-region VPC peering provisioned entirely with Terraform.
 
 This project deploys two isolated VPCs in separate AWS regions and establishes a secure, bidirectional VPC peering connection with explicit routing, security controls, and automated compute provisioning.
 
+<img width="1114" height="577" alt="Screenshot 2026-02-27 at 19 07 58" src="https://github.com/user-attachments/assets/66e8d671-0f9c-474e-8663-532ac90e6a2a" />
+
+
 No console configuration. Fully declarative. Destroyable and reproducible on demand.
 
 ---
